@@ -27,8 +27,8 @@ a {
 }
 
 header {
-  background: linear-gradient(rgba(255,255,255,.3),
-              rgba(235,150,80,.3)),
+  background: linear-gradient(rgba(255,255,255,.4),
+              rgba(235,150,80,.4)),
               url(imagenes/fondo.jpg);
   height: 100vh;
   background-size: cover;
